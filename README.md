@@ -31,3 +31,13 @@ TODO:
    Usage:
 
    Windows user:
+   ```
+   git clone https://github.com/dustinchen93/en-txt-translator.git
+   cd en-txt-translator
+   
+   python3 -m venv en-txt-translator
+   ./en-txt-translator-venv/Scripts/activate.bat
+   
+   pip install -r requirements.txt
+   python app.py
+   ```
